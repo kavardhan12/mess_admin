@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "707122091306",
+    "firebase_url": "https://nitsmess-default-rtdb.firebaseio.com",
+    "project_id": "nitsmess",
+    "storage_bucket": "nitsmess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707122091306:android:149fee6e270023a6d63a53",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707122091306-oihvqq0c5juq7dqoe4a0dpp75drl53s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-rK8AyAYuEhWGwI7zva-pFiQfChAw6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707122091306-oihvqq0c5juq7dqoe4a0dpp75drl53s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707122091306:android:83fefb43c0117ee0d63a53",
+        "android_client_info": {
+          "package_name": "com.example.mess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707122091306-oihvqq0c5juq7dqoe4a0dpp75drl53s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-rK8AyAYuEhWGwI7zva-pFiQfChAw6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707122091306-oihvqq0c5juq7dqoe4a0dpp75drl53s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
